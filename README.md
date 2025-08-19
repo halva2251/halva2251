@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![halva2251's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=halva2251&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 <!--
 **halva2251/halva2251** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
