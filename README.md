@@ -1,18 +1,18 @@
 # Hi there, I'm Yen 👋
 
-💻 I'm a very passionate IT Student from Switzerland with interests in a lot of branches of Computer Science. (Web Development, Cybersecurity, Robotics, etc.)
-🚀 Currently studying at IMS Kanti Baden
-🌱 Learning: C#, Cybersecurity Basics
-🤝 Always open to collaborate
-📫 Contact me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yevhenii-sauliak/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-1abc9c?style=flat-square&logo=dev.to&logoColor=white)](https://yensauliak.netlify.app/)
+- 💻 I'm a very passionate IT Student from Switzerland with interests in a lot of branches of Computer Science. (Web Development, Cybersecurity, Robotics, etc.)
+- 🚀 Currently studying at IMS Kanti Baden
+- 🌱 Learning: C#, Cybersecurity Basics
+- 🤝 Always open to collaborate
+- 📫 Contact me:
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yevhenii-sauliak/)
+- [![Portfolio](https://img.shields.io/badge/-Portfolio-1abc9c?style=flat-square&logo=dev.to&logoColor=white)](https://yensauliak.netlify.app/)
 
 ## ⚡ Tech Stack
-Languages: Python, C#, C++, HTML, CSS, Javascript, Powershell, Bash
-Frameworks: Django, .NET MVC
-Tools: Git, Windows, Linux
-Databases: SQL
+- Languages: Python, C#, C++, HTML, CSS, Javascript, Powershell, Bash
+- Frameworks: Django, .NET MVC
+- Tools: Git, Windows, Linux
+- Databases: SQL
 
 ![halva2251's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=halva2251&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
