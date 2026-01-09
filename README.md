@@ -14,6 +14,6 @@
 - Tools: Git, Windows, Linux
 - Databases: SQL
 
-![halva2251's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=halva2251&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+[![halva2251's GitHub stats](https://github-readme-stats.vercel.app/api?username=halva2251)](https://github.com/halva2251/github-readme-stats)
 
 ✨ “Code is like humor. When you have to explain it, it’s bad.”
