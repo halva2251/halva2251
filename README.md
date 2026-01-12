@@ -14,6 +14,6 @@
 - Tools: Git, Windows, Linux
 - Databases: SQL
 
-[![halva2251's GitHub stats](https://github-readme-stats.vercel.app/api?username=halva2251)](https://github.com/halva2251/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=halva2251&theme=dark)](https://git.io/streak-stats)
 
 ✨ “Code is like humor. When you have to explain it, it’s bad.”
