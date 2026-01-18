@@ -6,7 +6,7 @@
 - Always open to collaborating
 - Contact me:
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yevhenii-sauliak/)
-- [![Portfolio](https://img.shields.io/badge/-Portfolio-1abc9c?style=flat-square&logo=dev.to&logoColor=white)](https://yensauliak.netlify.app/)
+- [![Portfolio](https://img.shields.io/badge/-Portfolio-1abc9c?style=flat-square&logo=dev.to&logoColor=white)](https://yen-portfolio.azurewebsites.net/)
 
 ## Tech Stack
 - Languages: Python, C#, C++, HTML, CSS, Javascript, Powershell, Bash
