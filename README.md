@@ -1,6 +1,6 @@
 # Hey, I'm Yen 👋
 
-IT student from Switzerland passionate about building things that work — from web apps to networks to robots.  
+IT student from Ukraine passionate about building things that work — from web apps to networks to robots.  
 Currently studying Software Development at **IMS Kanti Baden**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yevhenii-sauliak/)
