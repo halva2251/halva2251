@@ -4,7 +4,7 @@ IT student from Ukraine passionate about building things that work. From web app
 Currently studying Software Development at **IMS Kanti Baden**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yevhenii-sauliak/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1abc9c?style=flat&logo=globe&logoColor=white)](https://yen-portfolio-xi.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1abc9c?style=flat&logo=globe&logoColor=white)](www.yensauliak.com/)
 
 ---
 
