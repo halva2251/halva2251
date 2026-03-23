@@ -1,48 +1,35 @@
-# Hey, I'm Yen 👋
+# Yen Sauliak
 
 IT student from Ukraine passionate about building things that work. From web apps to networks to robots.  
 Currently studying Software Development at **IMS Kanti Baden**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yevhenii-sauliak/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1abc9c?style=flat&logo=globe&logoColor=white)](https://www.yensauliak.com/)
+[![Portfolio](https://img.shields.io/badge/yensauliak.com-1b2932?style=flat-square&logo=safari&logoColor=white)](https://www.yensauliak.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1b2932?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yevhenii-sauliak/)
+[![Views](https://komarev.com/ghpvc/?username=halva2251&color=1b2932&style=flat-square&label=profile+views)](https://github.com/halva2251)
 
 ---
 
-### 🛠 Tech Stack
+### Projects
 
-**Languages**  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-
-**Frameworks & Libraries**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-
-**Tools & Platforms**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-**Databases**  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**SongSwap**](https://github.com/halva2251/songswap) | Anonymous music discovery — give a song, get a song from a stranger | `Go` `React` `TypeScript` `PostgreSQL` `Docker` |
+| [**StackUnderFlow**](https://github.com/halva2251/StackUnderFlow) | Satirical Q&A app where AI generates confidently wrong answers | `Go` `Python` `Docker` |
+| [**BBB-Leitsystem**](https://github.com/halva2251/BBB-Leitsystem) | Indoor navigation system for BBBaden school campus | `TypeScript` `C#` `ASP.NET` `Docker` |
 
 ---
 
-### 📊 GitHub Stats
+### Stack
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=halva2251&theme=github_dark)
+[![My Skills](https://skillicons.dev/icons?i=go,ts,js,cs,py,cpp,react,dotnet,django,docker,azure,linux,git&theme=dark)](https://skillicons.dev)
+
+---
+
+### Stats
 
 <p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=halva2251&theme=github_dark" width="49%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=halva2251&theme=github_dark" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=halva2251&theme=github-dark-blue&hide_border=true&background=0d1117" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=halva2251&theme=github_dark&utcOffset=1" width="49%" />
 </p>
 
 ---
