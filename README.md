@@ -11,11 +11,15 @@ Currently studying Software Development at **IMS Kanti Baden**.
 
 ### Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**SongSwap**](https://github.com/halva2251/songswap) | Anonymous music discovery — give a song, get a song from a stranger | `Go` `React` `TypeScript` `PostgreSQL` `Docker` |
-| [**StackUnderFlow**](https://github.com/halva2251/StackUnderFlow) | Satirical Q&A app where AI generates confidently wrong answers | `Go` `Python` `Docker` |
-| [**BBB-Leitsystem**](https://github.com/halva2251/BBB-Leitsystem) | Indoor navigation system for BBBaden school campus | `TypeScript` `C#` `ASP.NET` `Docker` |
+<a href="https://github.com/halva2251/songswap">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=halva2251&repo=songswap&theme=github_dark&hide_border=true&bg_color=0d1117" />
+</a>
+<a href="https://github.com/halva2251/StackUnderFlow">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=halva2251&repo=StackUnderFlow&theme=github_dark&hide_border=true&bg_color=0d1117" />
+</a>
+<a href="https://github.com/halva2251/BBB-Leitsystem">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=halva2251&repo=BBB-Leitsystem&theme=github_dark&hide_border=true&bg_color=0d1117" />
+</a>
 
 ---
 
