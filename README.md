@@ -7,19 +7,6 @@ Currently studying Software Development at **IMS Kanti Baden**.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1b2932?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yevhenii-sauliak/)
 [![Views](https://komarev.com/ghpvc/?username=halva2251&color=1b2932&style=flat-square&label=profile+views)](https://github.com/halva2251)
 
----
-
-### Projects
-
-<a href="https://github.com/halva2251/songswap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=halva2251&repo=songswap&theme=github_dark&hide_border=true&bg_color=0d1117" />
-</a>
-<a href="https://github.com/halva2251/StackUnderFlow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=halva2251&repo=StackUnderFlow&theme=github_dark&hide_border=true&bg_color=0d1117" />
-</a>
-<a href="https://github.com/halva2251/BBB-Leitsystem">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=halva2251&repo=BBB-Leitsystem&theme=github_dark&hide_border=true&bg_color=0d1117" />
-</a>
 
 ---
 
